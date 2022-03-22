@@ -1,0 +1,23 @@
+.grey-txt{
+    color: #85A3B8;
+    font-size: 17px;
+}
+.max-length{
+    max-width: 450px;
+}
+.theme-bg{
+    background-color: #1E293B !important;
+    color: #fff;
+}
+.full-height{
+    height: 100vh;
+}
+.big-font{
+    font-size: 50px;
+}
+.menu-icons{
+    list-style: none;
+    display: flex;
+    padding: 0;
+    justify-content: space-around;
+}
